@@ -1,0 +1,10 @@
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\obj\Debug\ReservaCine.csproj.AssemblyReference.cache
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\obj\Debug\ReservaCine.Properties.Resources.resources
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\obj\Debug\ReservaCine.csproj.GenerateResource.cache
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\obj\Debug\ReservaCine.csproj.CoreCompileInputs.cache
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\bin\Debug\ReservaCine.exe.config
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\bin\Debug\ReservaCine.exe
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\bin\Debug\ReservaCine.pdb
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\obj\Debug\ReservaCine.exe
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\obj\Debug\ReservaCine.pdb
+C:\Users\aassu\source\repos\lab1-poe-AlexySSa\ReservaCine\ReservaCine\obj\Debug\ReservaCine.exe.config
